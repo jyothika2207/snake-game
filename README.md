@@ -62,3 +62,49 @@ def snake_game():
             snake.pop()
     print("final score:",score)            
 snake_game()        
+
+
+
+=======OUTPUT===========
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . F . . . . . 
+. . . . . S . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+score: 0
+enter direction(up/down/left/right: left
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . F . . . . . 
+. . . . S . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+
+score: 0
+enter direction(up/down/left/right: up
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . S . . . . . 
+. . . . S . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . . . . . . F . . 
+
+score: 1
+enter direction(up/down/left/right: down
+you hit the yourself....game over!!!
+final score: 1
+
